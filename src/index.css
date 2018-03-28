@@ -1,0 +1,8 @@
+
+#home{
+  height: 200px;
+  width: 200px;
+  border-radius: 5px;
+  transform:rotate(7deg);
+  background: url(./bb.png);
+}
